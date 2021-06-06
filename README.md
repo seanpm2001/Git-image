@@ -1,13 +1,13 @@
 
 ***
 
-# <projectName>
+# Git_image
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+<!-- ![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg) !-->
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+[Seanpm2001](https://github.com/seanpm2001/), et; al.
 
 ### Top
 
@@ -27,64 +27,105 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#Git-image)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#Git-image)
 
 [02.0 - About](#About)
 
-[03.0 - Wiki](#Wiki)
+[03.0 - Artificial Intelligence usage](#Artificial-Intelligence-usage)
 
-[04.0 - Version history](#Version-history)
+[04.0 - Stock image usage](#Stock-image-usage)
 
-[05.0 - Software status](#Software-status)
+[05.0 - Why Git?](#Why-git)
 
-[06.0 - Sponsor info](#Sponsor-info)
+[06.0 - Wiki](#Wiki)
 
-[07.0 - Contributers](#Contributers)
+[07.0 - Version history](#Version-history)
 
-[08.0 - Issues](#Issues)
+[08.0 - Software status](#Software-status)
 
-> [08.1 - Current issues](#Current-issues)
+[09.0 - Sponsor info](#Sponsor-info)
 
-> [08.2 - Past issues](#Past-issues)
+[10.0 - Contributers](#Contributers)
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+[11.0 - Issues](#Issues)
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+> [11.1 - Current issues](#Current-issues)
 
-[09.0 - Resources](#Resources)
+> [11.2 - Past issues](#Past-issues)
 
-[10.0 - Contributing](#Contributing)
+> [11.3 - Past pull requests](#Past-pull-requests)
 
-[11.0 - About README](#About-README)
+> [11.4 - Active pull requests](#Active-pull-requests)
 
-[12.0 - README Version history](#README-version-history)
+[12.0 - Resources](#Resources)
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[13.0 - Contributing](#Contributing)
 
-> [13.1 - End of file](#EOF)
+[14.0 - About README](#About-README)
+
+[15.0 - README Version history](#README-version-history)
+
+[16.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+> [16.1 - End of file](#EOF)
 
 ***
 
-# <repoName>
-<repo_description>
+# Git-image
+Information related to my GitHub image archive, usage of Git for imagery, the stock photo system I have, and the usage for Artificial Intelligence to process images.
 
 ***
+
+<!-- TODO notes June 5th 2021
+write in readme
+
+resources
+
+Organization
+> For Life archive images only - SeansLifeArchive_Images
+
+Artificial Intelliegence usage
+
+Stock image usage
+
+Why Git
+
+> 
+!-->
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This repository contains information on my GitHub image archive, usage of Git for imagery, the stock photo system I have, and the usage for Artificial Intelligence to process images. No new description is needed
+
+***
+
+## Artificial Intelligence usage
+
+I expanded the scope of the usage of my image data in May of 2021, but didn't fully announce it until now.
+
+I expanded the usage to include Artificial Intelligence to keep it in the GitHub theme, and because I have a pretty good Artificial Intelligence data set.
+
+The images are also stock images, and progress images.
+
+## Stock image usage
+
+Originally, the images were to be used only as stock images and personal progress images. I have later expanded the scope.
+
+## Why Git
+
+Why did I choose GitHub to upload the dataset to? I slowly became more and more comfortable with GitHub and didn't know of a good alternative site to upload projects to. I felt it was best to put it all in one place.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/Git-image/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -200,9 +241,13 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file](PROJECT_LANG.py)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/Git-image/discussions)
+
+[Search through images via my journaling archive (repository)](https://github.com/seanpm2001/SeansLifeArchive_Images)
+
+[Search through images via my journaling archive (organization)](https://github.com/seanwallawalla-images)
 
 No other resources at the moment.
 
@@ -220,15 +265,15 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+File version: `1 (Saturday, June 5th 2021 at 8:15 pm)`
 
-Line count: `0,296`
+Line count: `0,339`
 
 ***
 
 ## README version history
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+Version 1 (Saturday, June 5th 2021 at 8:15 pm)
 
 > Changes:
 
@@ -239,6 +284,12 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 > * Added the index
 
 > * Added the about section
+
+> * Added the artificial intelligence section
+
+> * Added the stock image section
+
+> * Added the Why Git section
 
 > * Added the Wiki section
 
@@ -265,14 +316,6 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 > * Added a software status section, with a DRM free sticker and message
 
 > * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
 
 > * No other changes in version 1
 
